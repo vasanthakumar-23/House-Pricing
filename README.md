@@ -38,9 +38,5 @@ To use the house price prediction model, follow these steps:
 2. Install the required dependencies as specified in the requirements.txt file.
 3. Run the (main script file) to load the model and make predictions on new data.
 
-## Contributing
-
-Contributions to this project are welcome. If you have any suggestions for improvements or would like to add new features, please feel free to submit a pull request. For major changes, please open an issue first to discuss the proposed modifications.
-
-## Author
-K.vasanthakumar
+## Contributing 
+Contributions to this project are welcome. If you have any suggestions for improvements or would like to add new features, please feel free to submit a pull request. For major changes, please open an issue first to discuss the proposed modifications. Team members** P.Sanjaykumar K.Vasanthakumar S.Sujan surya DV.Akash Y.Arjun
